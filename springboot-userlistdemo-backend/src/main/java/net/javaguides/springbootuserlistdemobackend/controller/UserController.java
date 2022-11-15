@@ -1,7 +1,6 @@
 package net.javaguides.springbootuserlistdemobackend.controller;
 
 
-import jdk.nashorn.internal.runtime.UserAccessorProperty;
 import net.javaguides.springbootuserlistdemobackend.model.User;
 import net.javaguides.springbootuserlistdemobackend.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
